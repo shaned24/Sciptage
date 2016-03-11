@@ -1,1 +1,1 @@
-iwr ls
+ls
